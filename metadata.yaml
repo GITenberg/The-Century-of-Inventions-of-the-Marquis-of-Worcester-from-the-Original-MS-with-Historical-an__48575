@@ -1,10 +1,16 @@
 _repo: The-Century-of-Inventions-of-the-Marquis-of-Worcester-from-the-Original-MS-with-Historical-an__48575
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48575-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Partington, Charles F.
     gutenberg_agent_id: '44862'
     url: http://www.gutenberg.org/2009/agents/44862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48575#The-Century-of-Inventions-of-the-Marquis-of-Worcester-from-the-Original-MS-with-Historical-an_
 gutenberg_issued: '2015-03-24'
 gutenberg_type: Text
 identifiers:
